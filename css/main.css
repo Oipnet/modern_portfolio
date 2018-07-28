@@ -166,6 +166,10 @@ main {
   .about-info .bio {
     grid-area: bio;
     font-size: 1.5rem; }
+    .about-info .bio dl {
+      margin: 1rem 0.5rem; }
+      .about-info .bio dl dt {
+        font-weight: 600; }
   .about-info .job-1 {
     grid-area: job1; }
   .about-info .job-2 {
